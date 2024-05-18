@@ -1,3 +1,7 @@
+# Credits for the code: https://youtu.be/lFbAifsZXmI?si=E7dklOeyC6S95Y_G
+# Comments were added to the code to explain the process
+
+
 import cv2 as cv 
 import cv2.bgsegm
 import numpy as np
